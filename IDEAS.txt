@@ -1,2 +1,2 @@
 · Usuarios
-  · Al crear un usuario, preguntar cuanto masa - rango de edad para calcular la cantidad de nutrientes que necesita, ademas de ofrecerle la posibilidad de cambiarlo
+  · Al crear un usuario, preguntar cuanto masa - rango de edad para calcular la cantidad de nutrientes que necesita, ademas de ofrecerle la posibilidad de cambiarlo. **SE DEBEN LIMITAR LOS CARACTERES INGRESADOS A SOLO NUMEROS <<https://www.youtube.com/watch?v=2ZTbomIlVL0>>**
